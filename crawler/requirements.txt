@@ -1,0 +1,4 @@
+Flask
+requests-html
+crawl4ai
+beautifulsoup4
